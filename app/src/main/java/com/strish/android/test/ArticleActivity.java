@@ -57,7 +57,6 @@ public class ArticleActivity extends AppCompatActivity {
                 mCaptionTextView.setText(mArticle.getFavoriteCaption());
             }
         }
-
     }
 
     @Override
