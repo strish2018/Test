@@ -1,7 +1,8 @@
-package com.strish.android.test;
+package com.strish.android.test.api;
 
 import java.util.List;
 import com.google.gson.annotations.SerializedName;
+import com.strish.android.test.MediaItem;
 
 public class Response{
 

@@ -1,4 +1,6 @@
-package com.strish.android.test;
+package com.strish.android.test.api;
+
+import com.strish.android.test.JSONResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
